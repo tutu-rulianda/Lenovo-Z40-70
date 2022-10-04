@@ -6,5 +6,4 @@ It is just for educational purpose only. Do not use for any other purpose.
 Disclaimer.
 I'm not responsible for any damage resulted from an improper deployment and any practice whatsoever.
 
-Greetings,
-Tutu Rulianda
+Greetings, Tutu Rulianda.
